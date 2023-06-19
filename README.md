@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
   <meta charset="UTF-8">
-  <title>Technical Writing 101: The Ultimate Guide to Technical Writing</title>
+  
 </head>
 
 <body>
